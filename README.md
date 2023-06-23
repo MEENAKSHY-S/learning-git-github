@@ -1,0 +1,1 @@
+Repo for git and github training by Mind Empowered as part of the internship.
